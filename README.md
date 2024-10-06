@@ -13,18 +13,18 @@
 - Если хотите поддержать меня, напишите так же в дискорд: sergey0066
 
 #### ENGLISH TRANSLATION
-- This is my archive ButterX.rar there is a minecraft launcher inside, but it's not like that!
-- Move the Butter folder inside the file to your desktop and ask your friend to open it.
-- Your friend will try to run Start.bat, but he will fail, he will give an error.
-- Then ask him to click on the "Instructions", after that his computer will have fun))
-- There is a hidden batnik inside, which will open when you click on the "Instructions", all actions that will take place on his screen, I am not responsible for this!
-- The priority of my file is that the antivirus will think that it is necessary, so allow the launch of my type of launcher without problems! 
+This is my archive ButterX.rar there is a minecraft launcher inside, but it's not like that!
+Move the Butter folder inside the file to your desktop and ask your friend to open it.
+Your friend will try to run Start.bat, but he will fail, he will give an error.
+Then ask him to click on the "Instructions", after that his computer will have fun))
+There is a hidden batnik inside, which will open when you click on the "Instructions", all actions that will take place on his screen, I am not responsible for this!
+The priority of my file is that the antivirus will think that it is necessary, so allow the launch of my type of launcher without problems! 
 - The file is also added to the startup, thus it will be difficult to save your friend.
-- I will tell you more about the work in discord: sergey0066
+  I will tell you more about the work in discord: sergey0066
 
 - Sale and other frauds are prohibited, the file is open for public access!
 - If you want to support me, write to discord as well: sergey0066
 
 #### SOCIAL MY
 > Есть вопросы или заказы/Any questions or orders?
-> Discord: sergey0066
+  > Discord: sergey0066
