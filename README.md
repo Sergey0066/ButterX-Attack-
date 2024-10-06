@@ -35,6 +35,7 @@ I will tell you more about the work in discord: sergey0066
 > Discord: sergey0066
 ```
 ```Deprecated
+ENGLISH TRANSLATION:
 Do you have any questions about the file?
 Do you want to order a code or a program?
 Communication with me is via discord!
