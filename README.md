@@ -9,6 +9,7 @@
 Так же файл добавляется в автозагрузки, тем самым твоего друга спасти будет сложно.
 Подробнее работу расскажу в дискорд: sergey0066
 
+- Вы полностью несёте ответственность за последствия, не пытайтесь сделать кому-то плохо!
 - Продажа и прочие махинации запрещены, файл открыт для общего доступа!
 - Если хотите поддержать меня, напишите так же в дискорд: sergey0066
 
@@ -22,9 +23,10 @@ The priority of my file is that the antivirus will think that it is necessary, s
 - The file is also added to the startup, thus it will be difficult to save your friend.
   I will tell you more about the work in discord: sergey0066
 
+- You are fully responsible for the consequences, do not try to make someone feel bad!
 - Sale and other frauds are prohibited, the file is open for public access!
 - If you want to support me, write to discord as well: sergey0066
-
+  
 #### SOCIAL MY
 > Есть вопросы или заказы/Any questions or orders?
 > > Discord: sergey0066
