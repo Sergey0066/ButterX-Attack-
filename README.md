@@ -28,7 +28,8 @@ I will tell you more about the work in discord: sergey0066
 - You are fully responsible for the consequences, do not try to make someone feel bad!
   
 #### SOCIAL MY
+> [!TIP]
 > Есть вопросы или заказы/Any questions or orders?
 > > Discord: sergey0066
 
-$${\color{blue}Есть \space \color{blue}Вопросы? \space \color{blue}Пишите \space \color{blue}мне! 🚀}$$
+$${\color{blue}Есть \space \color{blue}Вопросы? \space \color{red}Пишите \space \color{red}мне!}$$
