@@ -28,5 +28,4 @@ I will tell you more about the work in discord: sergey0066
 - You are fully responsible for the consequences, do not try to make someone feel bad!
   
 #### SOCIAL MY
-$${\color{blue}Есть вопросы или заказы/Any questions or orders?}$$
-$${\color{blue}Discord: sergey0066}$$
+$${\color{red}Есть \space \color{lightblue}Вопросы? \space \color{orange}Discord: sergey0066f}$$
