@@ -28,4 +28,4 @@ I will tell you more about the work in discord: sergey0066
 - You are fully responsible for the consequences, do not try to make someone feel bad!
   
 #### SOCIAL MY
-$${\color{red}Есть \space \color{red}Вопросы? \space \color{green}Discord \space \color{green}sergey0066}$$
+$${\color{blue}Есть \space \color{blue}Вопросы? \space \color{lightgreen}Discord: \space \color{lightgreen}sergey0066}$$
