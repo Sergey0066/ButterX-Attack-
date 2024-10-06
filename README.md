@@ -33,6 +33,11 @@ I will tell you more about the work in discord: sergey0066
 Хотите заказать код или программу?
 Связь со мной осуществляется через дискорд!
 > Discord: sergey0066
+
+Do you have any questions about the file?
+Do you want to order a code or a program?
+Communication with me is via discord!
+> Discord: sergey0066
 ```
 
 $${\color{red}Есть \space \color{red}Вопросы? \space \color{red}Пишите \space \color{red}мне!}$$
