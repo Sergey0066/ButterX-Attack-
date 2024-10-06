@@ -28,5 +28,7 @@ I will tell you more about the work in discord: sergey0066
 - You are fully responsible for the consequences, do not try to make someone feel bad!
   
 #### SOCIAL MY
+```diff
 > Есть вопросы или заказы/Any questions or orders?
 > > Discord: +sergey0066
+```
