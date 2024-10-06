@@ -29,4 +29,4 @@ I will tell you more about the work in discord: sergey0066
   
 #### SOCIAL MY
 > Есть вопросы или заказы/Any questions or orders?
-> > Discord: ![#0000FF]sergey0066
+> > Discord: ![#4078c0]sergey0066
