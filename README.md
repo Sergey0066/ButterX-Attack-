@@ -29,7 +29,7 @@ I will tell you more about the work in discord: sergey0066
   
 #### SOCIAL MY
 ```diff
-+ Есть вопросы по файлу?
++ >Есть вопросы по файлу?
 + Хотите заказать код или программу?
 + Связь со мной осуществляется через дискорд!
 + Discord: sergey0066
