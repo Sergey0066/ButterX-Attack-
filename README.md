@@ -46,3 +46,4 @@ Communication with me is via discord!
 ```
 
 $${\color{red}Есть \space \color{red}Вопросы? \space \color{red}Пишите \space \color{red}мне!}$$
+$${\color{red}Any \space \color{red}questions? \space \color{red}Write \space \color{red}to \space \color{red}me}$$
