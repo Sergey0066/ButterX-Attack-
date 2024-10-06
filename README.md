@@ -29,6 +29,6 @@ I will tell you more about the work in discord: sergey0066
   
 #### SOCIAL MY
 ```diff
-@@> Есть вопросы или заказы/Any questions or orders?@@
+@@> Есть вопросы или заказы/Any questions or orders?
 > Discord: sergey0066
 ```
