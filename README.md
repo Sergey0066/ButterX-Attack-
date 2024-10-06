@@ -29,13 +29,16 @@ I will tell you more about the work in discord: sergey0066
   
 #### SOCIAL MY
 ```Deprecated
+РУССКИЙ ПЕРЕВОД
+
 Есть вопросы по файлу?
 Хотите заказать код или программу?
 Связь со мной осуществляется через дискорд!
 > Discord: sergey0066
 ```
 ```Deprecated
-ENGLISH TRANSLATION:
+ENGLISH TRANSLATION
+
 Do you have any questions about the file?
 Do you want to order a code or a program?
 Communication with me is via discord!
