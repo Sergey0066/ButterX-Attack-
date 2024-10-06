@@ -27,4 +27,4 @@ The priority of my file is that the antivirus will think that it is necessary, s
 
 #### SOCIAL MY
 > Есть вопросы или заказы/Any questions or orders?
-> > Discord: sergey0066
+> Discord: sergey0066
