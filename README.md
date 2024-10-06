@@ -28,7 +28,7 @@ I will tell you more about the work in discord: sergey0066
 - You are fully responsible for the consequences, do not try to make someone feel bad!
   
 #### SOCIAL MY
-> [!NOTE]
+- [!NOTE]
 - Есть вопросы по файлу?
 - Хотите заказать код или программу?
 - Связь со мной осуществляется через дискорд!
